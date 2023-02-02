@@ -2,7 +2,7 @@ var myComponent = {
   brand: "Lenovo",
   price: 360000,
   color: "Sliver",
-  processor: 17,
+  processor: "i10",
 };
 
 console.log(myComponent.brand);
